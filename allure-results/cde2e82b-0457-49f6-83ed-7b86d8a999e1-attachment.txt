@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"checkout_summary_container\"]/div/div[2]"
+}
